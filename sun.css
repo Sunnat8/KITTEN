@@ -1,0 +1,53 @@
+#container{
+  border: 7.5px solid blue;;
+   padding: 20px;
+    background-color: red;
+    
+    
+    
+    
+    
+}
+#card{
+  border: 5px solid black;
+  width: 95%;
+  height: 95%;
+  padding: 10px;
+  margin: 5px;
+}
+
+#interesting-fact{
+  font-style: italic;
+}
+
+.animal-info{
+  border: 5px solid black;
+  padding: 5px;
+  width: 90%;
+}
+
+.animal_info{
+  font-style: italic;
+  border: 5px solid black;
+  padding: 5px;
+}
+
+ul {
+  font-weight: bold;
+  list-style: none;
+}
+
+h1{
+  border: 5px solid black;
+  padding: 5px;
+}
+
+img{
+  border: 5px solid black;
+  padding: 10px;
+}
+
+#summary{
+  border: 5px solid black;
+  padding: 5px;
+}
